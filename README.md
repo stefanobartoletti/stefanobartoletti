@@ -1,5 +1,17 @@
 <img src="images/cover.png" alt="Stefano Bartoletti">
 
+## Hi, I'm Stefano! 
+
+👨🏻‍💻 I'm a self-taught Web Designer & Developer from Italy.
+
+💻 One of my main activities is about creating custom themes for WordPress websites. This led me to create my own starter theme, Bricks, that I publicly released then as my first Open-Source project.
+
+🎨 Front-End is my favorite area of Web Development, and I also have a strong interest for Design and SEO's technical aspects. Jamstack related technologies are my new passion, in particular Vue, Nuxt and their ecosystem.
+
+🐧 I'm an enthusiast Linux user. It was 2008 when I tried my first Ubuntu Live CD, and after a few years spent with some of its derivatives, I finally ended my distro-hopping with KDE-powered openSUSE, which I run in a custom Slimbook laptop.
+
+📚 I also love swimming, sci-fi, history and science.
+
 <h2 align="center">My GitHub Stats</h2>
 
 <p align="center">
