@@ -10,3 +10,18 @@
 <h2 align="center">My Top Projects</h2>
 
 [![Bricks](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks&bg_color=333333&title_color=37c871&icon_color=37c871&text_color=dddddd)](https://github.com/stefanobartoletti/bricks)
+
+
+<h2 align="center">Test Widgets</h2>
+
+![Profile views](https://gpvc.arturio.dev/stefanobartoletti) 
+
+![Repos](https://badges.pufler.dev/repos/stefanobartoletti)
+
+![Monthly Commits](https://badges.pufler.dev/commits/monthly/stefanobartoletti)
+
+![Yearly Commits](https://badges.pufler.dev/commits/yearly/stefanobartoletti)
+
+![Contributors Display](https://badges.pufler.dev/contributors/stefanobartoletti/bricks?size=50&padding=5&bots=true)
+
+![Followers](https://img.shields.io/github/followers/stefanobartoletti)
