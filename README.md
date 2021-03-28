@@ -6,7 +6,7 @@
 
 💻 My job is mainly about creating tailor-made WordPress websites. This led me to build my own starter theme, Bricks, which I released publicly as my first Open-Source project.
 
-🎨 Front-End is my favorite area of Web Development, and I also have a strong interest for Design and SEO's technical aspects. Jamstack related technologies are my new passion, in particular Vue, Nuxt and their ecosystem.
+🎨 Front-End is my favorite area of web development, and I also have a strong interest for design and SEO's technical aspects. Jamstack related technologies are my new passion, in particular Vue, Nuxt and their ecosystem.
 
 🐧 I'm an enthusiast Linux user. It was 2008 when I tried my first Ubuntu Live CD, and after a few years spent with some of its derivatives, I finally ended my distro-hopping with KDE-powered openSUSE, which I run in a custom Slimbook laptop.
 
@@ -29,6 +29,7 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/OS-openSUSE-37c871?style=flat-square&logoColor=eeeeee&logo=opensuse)
+![](https://img.shields.io/badge/OS-KDE-37c871?style=flat-square&logoColor=eeeeee&logo=kde)
 ![](https://img.shields.io/badge/Editor-VS_Code-37c871?style=flat-square&logoColor=eeeeee&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Code-JavaScript-37c871?style=flat-square&logoColor=eeeeee&logo=javascript)
 ![](https://img.shields.io/badge/Code-CSS-37c871?style=flat-square&logoColor=eeeeee&logo=css3)
@@ -38,8 +39,6 @@
 ![](https://img.shields.io/badge/Code-Vue.js-37c871?style=flat-square&logoColor=eeeeee&logo=vue.js)
 ![](https://img.shields.io/badge/Code-Nuxt-37c871?style=flat-square&logoColor=eeeeee&logo=nuxt.js)
 ![](https://img.shields.io/badge/Code-Tailwind-37c871?style=flat-square&logoColor=eeeeee&logo=tailwind-css)
-![](https://img.shields.io/badge/Tool-Git-37c871?style=flat-square&logoColor=eeeeee&logo=git)
-![](https://img.shields.io/badge/Tool-GitHub-37c871?style=flat-square&logoColor=eeeeee&logo=github)
 ![](https://img.shields.io/badge/Tool-Yarn-37c871?style=flat-square&logoColor=eeeeee&logo=yarn)
 ![](https://img.shields.io/badge/Tool-Gulp-37c871?style=flat-square&logoColor=eeeeee&logo=gulp)
 ![](https://img.shields.io/badge/Tool-Rollup-37c871?style=flat-square&logoColor=eeeeee&logo=rollup.js)
