@@ -1,6 +1,6 @@
 <img src="images/cover.png" alt="Stefano Bartoletti">
 
-## Hi, I'm Stefano! 
+# Hi, I'm Stefano! 
 
 👨🏻‍💻 I'm a self-taught web designer & developer from Italy.
 
