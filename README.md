@@ -8,7 +8,7 @@
 
 🎨 Front-End is my favorite area of web development, and I also have a strong interest for design and SEO's technical aspects. Jamstack related technologies are my new passion, in particular Vue, Nuxt and their ecosystem.
 
-🐧 I'm an enthusiast Linux user. It was 2008 when I tried my first Ubuntu Live CD, and after a few years spent with some of its derivatives, I finally ended my distro-hopping with KDE-powered openSUSE, which I run in a custom Slimbook laptop.
+🐧 I'm an enthusiast Linux user. It was 2008 when I tried my first Ubuntu Live USB, and after a few years spent with some of its derivatives, I finally ended my distro-hopping by landing on KDE-powered openSUSE, which I run in a custom Slimbook laptop.
 
 📚 I also love swimming, sci-fi, history and science.
 
