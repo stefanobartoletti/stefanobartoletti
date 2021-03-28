@@ -55,7 +55,7 @@
 
 <h2 align="center">My Projects</h2>
 
-s[![Bricks](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks&bg_color=333333&title_color=37c871&icon_color=37c871&text_color=dddddd)](https://github.com/stefanobartoletti/bricks)
+[![Bricks](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks&bg_color=333333&title_color=37c871&icon_color=37c871&text_color=dddddd)](https://github.com/stefanobartoletti/bricks)
 
 <h2 align="center">My Contributions</h2>
 
