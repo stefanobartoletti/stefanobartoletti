@@ -4,7 +4,7 @@
 
 👨🏻‍💻 I'm a self-taught Web Designer & Developer from Italy.
 
-💻 One of my main activities is to create WordPress websites. This led me to create my own starter theme, Bricks, that I ended to release publicly as my first Open-Source project.
+💻 My job is mainly about creating tailor-made WordPress websites. This led me to build my own starter theme, Bricks, that I ended to release publicly as my first Open-Source project.
 
 🎨 Front-End is my favorite area of Web Development, and I also have a strong interest for Design and SEO's technical aspects. Jamstack related technologies are my new passion, in particular Vue, Nuxt and their ecosystem.
 
