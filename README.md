@@ -42,6 +42,7 @@
 ![](https://img.shields.io/badge/Tool-Yarn-37c871?style=flat-square&logoColor=eeeeee&logo=yarn)
 ![](https://img.shields.io/badge/Tool-Gulp-37c871?style=flat-square&logoColor=eeeeee&logo=gulp)
 ![](https://img.shields.io/badge/Tool-Rollup-37c871?style=flat-square&logoColor=eeeeee&logo=rollup.js)
+![](https://img.shields.io/badge/Tool-Bash-37c871?style=flat-square&logoColor=eeeeee&logo=gnu-bash)
 ![](https://img.shields.io/badge/Platform-Docker-37c871?style=flat-square&logoColor=eeeeee&logo=docker)
 ![](https://img.shields.io/badge/Platform-Netlify-37c871?style=flat-square&logoColor=eeeeee&logo=netlify)
 ![](https://img.shields.io/badge/Platform-DigitalOcean-37c871?style=flat-square&logoColor=eeeeee&logo=digitalocean)
