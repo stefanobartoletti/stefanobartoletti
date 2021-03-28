@@ -2,9 +2,9 @@
 
 ## Hi, I'm Stefano! 
 
-👨🏻‍💻 I'm a self-taught Web Designer & Developer from Italy.
+👨🏻‍💻 I'm a self-taught web designer & developer from Italy.
 
-💻 My job is mainly about creating tailor-made WordPress websites. This led me to build my own starter theme, Bricks, that I ended to release publicly as my first Open-Source project.
+💻 My job is mainly about creating tailor-made WordPress websites. This led me to build my own starter theme, Bricks, which I released publicly as my first Open-Source project.
 
 🎨 Front-End is my favorite area of Web Development, and I also have a strong interest for Design and SEO's technical aspects. Jamstack related technologies are my new passion, in particular Vue, Nuxt and their ecosystem.
 
