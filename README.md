@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/Tool-Rollup-37c871?style=flat-square&logoColor=eeeeee&logo=rollup.js)
 ![](https://img.shields.io/badge/Platform-Docker-37c871?style=flat-square&logoColor=eeeeee&logo=docker)
 ![](https://img.shields.io/badge/Platform-Netlify-37c871?style=flat-square&logoColor=eeeeee&logo=netlify)
-![](https://img.shields.io/badge/Platform-DigitaOcean-37c871?style=flat-square&logoColor=eeeeee&logo=digitalocean)
+![](https://img.shields.io/badge/Platform-DigitalOcean-37c871?style=flat-square&logoColor=eeeeee&logo=digitalocean)
 
 </div>
 
