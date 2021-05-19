@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/-facebook-37c871?style=for-the-badge&logoColor=eeeeee&logo=facebook)](https://www.facebook.com/stefanobartolettiweb/)
 [![](https://img.shields.io/badge/-linkedin-37c871?style=for-the-badge&logoColor=eeeeee&logo=linkedin)](https://www.linkedin.com/in/bartolettistefano/)
 [![](https://img.shields.io/badge/-twitter-37c871?style=for-the-badge&logoColor=eeeeee&logo=twitter)](https://twitter.com/ste_bartoletti/)
-[![](https://img.shields.io/badge/-dev-37c871?style=for-the-badge&logoColor=eeeeee&logo=dev.to)](https://dev.to/stefanobartoletti/)
+[![](https://img.shields.io/badge/-dev-37c871?style=for-the-badge&logoColor=eeeeee&logo=dev-dot-to)](https://dev.to/stefanobartoletti/)
 
 </div>
 
@@ -36,12 +36,12 @@
 ![](https://img.shields.io/badge/Code-WordPress-37c871?style=flat-square&logoColor=eeeeee&logo=wordpress)
 ![](https://img.shields.io/badge/Code-Bootstrap-37c871?style=flat-square&logoColor=eeeeee&logo=bootstrap)
 ![](https://img.shields.io/badge/Code-Sass-37c871?style=flat-square&logoColor=eeeeee&logo=sass)
-![](https://img.shields.io/badge/Code-Vue.js-37c871?style=flat-square&logoColor=eeeeee&logo=vue.js)
-![](https://img.shields.io/badge/Code-Nuxt-37c871?style=flat-square&logoColor=eeeeee&logo=nuxt.js)
+![](https://img.shields.io/badge/Code-Vue.js-37c871?style=flat-square&logoColor=eeeeee&logo=vue-dot-js)
+![](https://img.shields.io/badge/Code-Nuxt-37c871?style=flat-square&logoColor=eeeeee&logo=nuxt-dot-js)
 ![](https://img.shields.io/badge/Code-Tailwind-37c871?style=flat-square&logoColor=eeeeee&logo=tailwind-css)
 ![](https://img.shields.io/badge/Tool-Yarn-37c871?style=flat-square&logoColor=eeeeee&logo=yarn)
 ![](https://img.shields.io/badge/Tool-Gulp-37c871?style=flat-square&logoColor=eeeeee&logo=gulp)
-![](https://img.shields.io/badge/Tool-Rollup-37c871?style=flat-square&logoColor=eeeeee&logo=rollup.js)
+![](https://img.shields.io/badge/Tool-Rollup-37c871?style=flat-square&logoColor=eeeeee&logo=rollup-dot-js)
 ![](https://img.shields.io/badge/Tool-Bash-37c871?style=flat-square&logoColor=eeeeee&logo=gnu-bash)
 ![](https://img.shields.io/badge/Platform-Docker-37c871?style=flat-square&logoColor=eeeeee&logo=docker)
 ![](https://img.shields.io/badge/Platform-Netlify-37c871?style=flat-square&logoColor=eeeeee&logo=netlify)
