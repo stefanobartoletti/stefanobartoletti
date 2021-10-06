@@ -31,6 +31,8 @@
 ![](https://img.shields.io/badge/OS-openSUSE-53e08d?style=flat-square&logoColor=ffffff&logo=opensuse)
 ![](https://img.shields.io/badge/OS-KDE-53e08d?style=flat-square&logoColor=ffffff&logo=kde)
 ![](https://img.shields.io/badge/Editor-VS_Code-53e08d?style=flat-square&logoColor=ffffff&logo=visualstudiocode)
+![](https://img.shields.io/badge/Design-Figma-53e08d?style=flat-square&logoColor=ffffff&logo=figma)
+![](https://img.shields.io/badge/Design-Inkscape-53e08d?style=flat-square&logoColor=ffffff&logo=inkscape)
 ![](https://img.shields.io/badge/Code-JavaScript-53e08d?style=flat-square&logoColor=ffffff&logo=javascript)
 ![](https://img.shields.io/badge/Code-CSS-53e08d?style=flat-square&logoColor=ffffff&logo=css3)
 ![](https://img.shields.io/badge/Code-WordPress-53e08d?style=flat-square&logoColor=ffffff&logo=wordpress)
