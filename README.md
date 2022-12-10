@@ -18,7 +18,7 @@
 
 [![](https://img.shields.io/badge/-website-53e08d?style=for-the-badge&logoColor=ffffff&logo=google-chrome)](https://www.stefanobartoletti.it/)
 [![](https://img.shields.io/badge/-facebook-53e08d?style=for-the-badge&logoColor=ffffff&logo=facebook)](https://www.facebook.com/stefanobartolettiweb/)
-[![](https://img.shields.io/badge/-linkedin-53e08d?style=for-the-badge&logoColor=ffffff&logo=linkedin)](https://www.linkedin.com/in/bartolettistefano/)
+[![](https://img.shields.io/badge/-linkedin-53e08d?style=for-the-badge&logoColor=ffffff&logo=linkedin)](https://www.linkedin.com/in/stefanobartoletti/)
 [![](https://img.shields.io/badge/-twitter-53e08d?style=for-the-badge&logoColor=ffffff&logo=twitter)](https://twitter.com/ste_bartoletti/)
 [![](https://img.shields.io/badge/-dev-53e08d?style=for-the-badge&logoColor=ffffff&logo=devdotto)](https://dev.to/stefanobartoletti/)
 
