@@ -2,15 +2,15 @@
 
 # Hi, I'm Stefano! 
 
-👨🏻‍💻 I'm a self-taught web designer & developer from Italy.
+I'm a freelance Front-End developer.
 
-💻 My job is mainly about creating tailor-made WordPress websites. This led me to build my own starter theme, Bricks, which I released publicly as my first Open-Source project.
+My focus is on creative development, the core of my skills can be described as the meeting point between creativity and technical proficiency.
+ 
+My typical projects involve integrating complex but smooth animations and interactions, to present all the website information in an engaging way and make it a memorable experience.
 
-🎨 Front-End is my favorite area of web development, and I also have a strong interest for design and SEO's technical aspects. Jamstack related technologies are my new passion, in particular Vue, Nuxt and their ecosystem.
+I strive to deliver projects that are visually compelling and faithful to the designer's specifications, but also technically outstanding with a clean and properly organized code. All of this, without forgetting about web performance and technical SEO aspects.
 
-🐧 I'm an enthusiast Linux user. It was 2008 when I tried my first Ubuntu Live USB, and after a few years spent with some of its derivatives, I finally ended my distro-hopping by landing on KDE-powered openSUSE, which I run in a custom Slimbook laptop.
-
-📚 I also love swimming, sci-fi, history and science.
+My favorite technologies are Jamstack-based and comprise Nuxt and Tailwind for the front end, Storyblok as the headless CMS to manage all contents, and Gsap as the core for the animations.
 
 <h2 align="center">My Online Presence</h2>
 
