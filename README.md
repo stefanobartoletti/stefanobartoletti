@@ -64,8 +64,9 @@ My favorite technologies are Jamstack-based and comprise Nuxt and Tailwind for t
 
 <div align="center">
 
+[![Nuxt Social Share](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=nuxt-social-share&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd)](https://github.com/stefanobartoletti/nuxt-social-share)
 [![Bricks](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd)](https://github.com/stefanobartoletti/bricks)
-[![Bricks Documentation](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks-docs&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd)](https://github.com/stefanobartoletti/bricks-docs)
+<!-- [![Bricks Documentation](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks-docs&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd)](https://github.com/stefanobartoletti/bricks-docs) -->
 
 </div>
 
