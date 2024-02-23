@@ -16,11 +16,11 @@ My favorite technologies are Jamstack-based and comprise Nuxt and Tailwind for t
 
 <div align="center">
 
-[![](https://img.shields.io/badge/-website-53e08d?style=for-the-badge&logoColor=ffffff&logo=nuxtdotjs)](https://www.stefanobartoletti.it/)
-[![](https://img.shields.io/badge/-facebook-53e08d?style=for-the-badge&logoColor=ffffff&logo=facebook)](https://www.facebook.com/stefanobartoletti.it/)
-[![](https://img.shields.io/badge/-instagram-53e08d?style=for-the-badge&logoColor=ffffff&logo=instagram)](https://www.instagram.com/stefanobartoletti.it/)
-[![](https://img.shields.io/badge/-linkedin-53e08d?style=for-the-badge&logoColor=ffffff&logo=linkedin)](https://www.linkedin.com/in/stefanobartoletti/)
-[![](https://img.shields.io/badge/-dev-53e08d?style=for-the-badge&logoColor=ffffff&logo=devdotto)](https://dev.to/stefanobartoletti/)
+[![](https://img.shields.io/badge/-website-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=nuxtdotjs)](https://www.stefanobartoletti.it/)
+[![](https://img.shields.io/badge/-facebook-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=facebook)](https://www.facebook.com/stefanobartoletti.it/)
+[![](https://img.shields.io/badge/-instagram-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=instagram)](https://www.instagram.com/stefanobartoletti.it/)
+[![](https://img.shields.io/badge/-linkedin-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/stefanobartoletti/)
+[![](https://img.shields.io/badge/-dev-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=devdotto)](https://dev.to/stefanobartoletti/)
 
 </div>
 
@@ -28,45 +28,46 @@ My favorite technologies are Jamstack-based and comprise Nuxt and Tailwind for t
 
 <div align="center">
 
-![](https://img.shields.io/badge/OS-Linux-53e08d?style=flat-square&logoColor=ffffff&logo=linux)
-![](https://img.shields.io/badge/Editor-VS_Code-53e08d?style=flat-square&logoColor=ffffff&logo=visualstudiocode)
-![](https://img.shields.io/badge/Design-Figma-53e08d?style=flat-square&logoColor=ffffff&logo=figma)
-![](https://img.shields.io/badge/Code-JavaScript-53e08d?style=flat-square&logoColor=ffffff&logo=javascript)
-![](https://img.shields.io/badge/Code-CSS-53e08d?style=flat-square&logoColor=ffffff&logo=css3)
-![](https://img.shields.io/badge/Code-Sass-53e08d?style=flat-square&logoColor=ffffff&logo=sass)
-![](https://img.shields.io/badge/Code-Vue.js-53e08d?style=flat-square&logoColor=ffffff&logo=vuedotjs)
-![](https://img.shields.io/badge/Code-Nuxt-53e08d?style=flat-square&logoColor=ffffff&logo=nuxtdotjs)
-![](https://img.shields.io/badge/Code-Tailwind-53e08d?style=flat-square&logoColor=ffffff&logo=tailwind-css)
-![](https://img.shields.io/badge/Tool-Bash-53e08d?style=flat-square&logoColor=ffffff&logo=gnu-bash)
-![](https://img.shields.io/badge/Platform-Docker-53e08d?style=flat-square&logoColor=ffffff&logo=docker)
-![](https://img.shields.io/badge/Platform-Storyblok-53e08d?style=flat-square&logoColor=ffffff&logo=storyblok)
-![](https://img.shields.io/badge/Platform-Netlify-53e08d?style=flat-square&logoColor=ffffff&logo=netlify)
-<!-- ![](https://img.shields.io/badge/OS-openSUSE-53e08d?style=flat-square&logoColor=ffffff&logo=opensuse) -->
-<!-- ![](https://img.shields.io/badge/OS-KDE-53e08d?style=flat-square&logoColor=ffffff&logo=kde) -->
-<!-- ![](https://img.shields.io/badge/Design-Inkscape-53e08d?style=flat-square&logoColor=ffffff&logo=inkscape) -->
-<!-- ![](https://img.shields.io/badge/Code-WordPress-53e08d?style=flat-square&logoColor=ffffff&logo=wordpress) -->
-<!-- ![](https://img.shields.io/badge/Code-Bootstrap-53e08d?style=flat-square&logoColor=ffffff&logo=bootstrap) -->
-<!-- ![](https://img.shields.io/badge/Tool-Yarn-53e08d?style=flat-square&logoColor=ffffff&logo=yarn) -->
-<!-- ![](https://img.shields.io/badge/Tool-Gulp-53e08d?style=flat-square&logoColor=ffffff&logo=gulp) -->
-<!-- ![](https://img.shields.io/badge/Tool-Rollup-53e08d?style=flat-square&logoColor=ffffff&logo=rollupdotjs) -->
-<!-- ![](https://img.shields.io/badge/Platform-DigitalOcean-53e08d?style=flat-square&logoColor=ffffff&logo=digitalocean) -->
+![](https://img.shields.io/badge/OS-Linux-8FFF86?style=flat-square&logoColor=ffffff&logo=linux)
+![](https://img.shields.io/badge/Editor-VS_Code-8FFF86?style=flat-square&logoColor=ffffff&logo=visualstudiocode)
+![](https://img.shields.io/badge/Design-Figma-8FFF86?style=flat-square&logoColor=ffffff&logo=figma)
+![](https://img.shields.io/badge/Code-JavaScript-8FFF86?style=flat-square&logoColor=ffffff&logo=javascript)
+![](https://img.shields.io/badge/Code-CSS-8FFF86?style=flat-square&logoColor=ffffff&logo=css3)
+![](https://img.shields.io/badge/Code-Sass-8FFF86?style=flat-square&logoColor=ffffff&logo=sass)
+![](https://img.shields.io/badge/Code-Vue.js-8FFF86?style=flat-square&logoColor=ffffff&logo=vuedotjs)
+![](https://img.shields.io/badge/Code-Nuxt-8FFF86?style=flat-square&logoColor=ffffff&logo=nuxtdotjs)
+![](https://img.shields.io/badge/Code-Tailwind-8FFF86?style=flat-square&logoColor=ffffff&logo=tailwind-css)
+![](https://img.shields.io/badge/Tool-Bash-8FFF86?style=flat-square&logoColor=ffffff&logo=gnu-bash)
+![](https://img.shields.io/badge/Platform-Docker-8FFF86?style=flat-square&logoColor=ffffff&logo=docker)
+![](https://img.shields.io/badge/Platform-Storyblok-8FFF86?style=flat-square&logoColor=ffffff&logo=storyblok)
+![](https://img.shields.io/badge/Platform-Netlify-8FFF86?style=flat-square&logoColor=ffffff&logo=netlify)
+<!-- ![](https://img.shields.io/badge/OS-openSUSE-8FFF86?style=flat-square&logoColor=ffffff&logo=opensuse) -->
+<!-- ![](https://img.shields.io/badge/OS-KDE-8FFF86?style=flat-square&logoColor=ffffff&logo=kde) -->
+<!-- ![](https://img.shields.io/badge/Design-Inkscape-8FFF86?style=flat-square&logoColor=ffffff&logo=inkscape) -->
+<!-- ![](https://img.shields.io/badge/Code-WordPress-8FFF86?style=flat-square&logoColor=ffffff&logo=wordpress) -->
+<!-- ![](https://img.shields.io/badge/Code-Bootstrap-8FFF86?style=flat-square&logoColor=ffffff&logo=bootstrap) -->
+<!-- ![](https://img.shields.io/badge/Tool-Yarn-8FFF86?style=flat-square&logoColor=ffffff&logo=yarn) -->
+<!-- ![](https://img.shields.io/badge/Tool-Gulp-8FFF86?style=flat-square&logoColor=ffffff&logo=gulp) -->
+<!-- ![](https://img.shields.io/badge/Tool-Rollup-8FFF86?style=flat-square&logoColor=ffffff&logo=rollupdotjs) -->
+<!-- ![](https://img.shields.io/badge/Platform-DigitalOcean-8FFF86?style=flat-square&logoColor=ffffff&logo=digitalocean) -->
 
 </div>
 
 <h2 align="center">My GitHub Stats</h2>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefanobartoletti&count_private=true&show_icons=true&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd" alt="Stefano Bartoletti's GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobartoletti&show_icons=true&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd&layout=compact&langs_count=6" alt="Stefano Bartoletti's Top Languages">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefanobartoletti&count_private=true&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd" alt="Stefano Bartoletti's GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobartoletti&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd&layout=compact&langs_count=6" alt="Stefano Bartoletti's Top Languages">
 </div>
 
 <h2 align="center">My Projects</h2>
 
 <div align="center">
 
-[![Nuxt Social Share](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=nuxt-social-share&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd)](https://github.com/stefanobartoletti/nuxt-social-share)
-[![Bricks](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd)](https://github.com/stefanobartoletti/bricks)
-<!-- [![Bricks Documentation](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks-docs&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd)](https://github.com/stefanobartoletti/bricks-docs) -->
+[![Nuxt Social Share](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=nuxt-social-share&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/nuxt-social-share)
+[![Eslint Config](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=eslint-config&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/eslint-config)
+[![Bricks](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/bricks)
+<!-- [![Bricks Documentation](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks-docs&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/bricks-docs) -->
 
 </div>
 
@@ -74,6 +75,6 @@ My favorite technologies are Jamstack-based and comprise Nuxt and Tailwind for t
 
 <div align="center">
 
-[![La Capitaine Icon Theme](https://github-readme-stats.vercel.app/api/pin/?username=keeferrourke&repo=la-capitaine-icon-theme&bg_color=333333&title_color=53e08d&icon_color=53e08d&text_color=dddddd)](https://github.com/keeferrourke/la-capitaine-icon-theme)
+[![La Capitaine Icon Theme](https://github-readme-stats.vercel.app/api/pin/?username=keeferrourke&repo=la-capitaine-icon-theme&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/keeferrourke/la-capitaine-icon-theme)
 
 </div>
