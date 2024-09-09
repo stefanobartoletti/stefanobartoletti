@@ -55,7 +55,7 @@ My favorite technologies are based on JAMstack/Composable architecture: while my
 
 <h2 align="center">My GitHub Stats</h2>
 
-<div>
+<div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stefanobartoletti&count_private=true&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd" alt="Stefano Bartoletti's GitHub Stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobartoletti&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd&layout=compact&langs_count=6" alt="Stefano Bartoletti's Top Languages">
 </div>
