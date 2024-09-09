@@ -2,24 +2,24 @@
 
 # Hi, I'm Stefano! 
 
-I'm a freelance Front-End developer.
+I'm a freelance Front-End Web Developer.
 
 My focus is on creative development, the core of my skills can be described as the meeting point between creativity and technical proficiency.
  
 My typical projects involve integrating complex but smooth animations and interactions, to present all the website information in an engaging way and make it a memorable experience.
 
-I strive to deliver projects that are visually compelling and faithful to the designer's specifications, but also technically outstanding with a clean and properly organized code. All of this, without forgetting about web performance and technical SEO aspects.
+I strive to deliver projects that are visually compelling by working closely with the designer, but also technically outstanding with a clean and properly structured code. All of this, without forgetting about web performance and technical SEO aspects.
 
-My favorite technologies are Jamstack-based and comprise Nuxt and Tailwind for the front end, Storyblok as the headless CMS to manage all contents, and Gsap as the core for the animations.
+My favorite technologies are based on JAMstack/Composable architecture: while my focus is on front-end development, I can also take care of all other stages of the whole development process, from the CMS configuration to the live deployment on the hosting platform.
 
 <h2 align="center">My Online Presence</h2>
 
 <div align="center">
 
 [![](https://img.shields.io/badge/-website-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=nuxtdotjs)](https://www.stefanobartoletti.it/)
-[![](https://img.shields.io/badge/-facebook-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=facebook)](https://www.facebook.com/stefanobartoletti.it/)
-[![](https://img.shields.io/badge/-instagram-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=instagram)](https://www.instagram.com/stefanobartoletti.it/)
 [![](https://img.shields.io/badge/-linkedin-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/stefanobartoletti/)
+[![](https://img.shields.io/badge/-instagram-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=instagram)](https://www.instagram.com/stefanobartoletti.it/)
+[![](https://img.shields.io/badge/-x/twitter-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=x)](https://twitter.com/ste_bartoletti/)
 [![](https://img.shields.io/badge/-dev-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=devdotto)](https://dev.to/stefanobartoletti/)
 
 </div>
@@ -60,21 +60,13 @@ My favorite technologies are Jamstack-based and comprise Nuxt and Tailwind for t
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobartoletti&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd&layout=compact&langs_count=6" alt="Stefano Bartoletti's Top Languages">
 </div>
 
-<h2 align="center">My Projects</h2>
+<h2 align="center">My Open-Source Projects</h2>
 
 <div align="center">
 
 [![Nuxt Social Share](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=nuxt-social-share&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/nuxt-social-share)
 [![Eslint Config](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=eslint-config&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/eslint-config)
-[![Bricks](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/bricks)
+<!-- [![Bricks](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/bricks) -->
 <!-- [![Bricks Documentation](https://github-readme-stats.vercel.app/api/pin/?username=stefanobartoletti&repo=bricks-docs&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/bricks-docs) -->
-
-</div>
-
-<h2 align="center">My Contributions</h2>
-
-<div align="center">
-
-[![La Capitaine Icon Theme](https://github-readme-stats.vercel.app/api/pin/?username=keeferrourke&repo=la-capitaine-icon-theme&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/keeferrourke/la-capitaine-icon-theme)
 
 </div>
