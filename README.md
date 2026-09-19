@@ -59,12 +59,3 @@ My favorite technologies are based on JAMstack/Composable architecture: while my
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=stefanobartoletti&count_private=true&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd" alt="Stefano Bartoletti's GitHub Stats">
     <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=stefanobartoletti&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd&layout=compact&langs_count=6" alt="Stefano Bartoletti's Top Languages">
 </div>
-
-<h2 align="center">My Open-Source Projects</h2>
-
-<div align="center">
-
-[![Nuxt Social Share](https://github-stats-extended.vercel.app/api/pin/?username=stefanobartoletti&repo=nuxt-social-share&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/nuxt-social-share)
-[![Eslint Config](https://github-stats-extended.vercel.app/api/pin/?username=stefanobartoletti&repo=eslint-config&bg_color=333333&title_color=8FFF86&icon_color=8FFF86&text_color=dddddd)](https://github.com/stefanobartoletti/eslint-config)
-
-</div>
